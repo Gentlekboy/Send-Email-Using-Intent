@@ -1,0 +1,2 @@
+rootProject.name = "Send Email Using Intent"
+include ':app'
